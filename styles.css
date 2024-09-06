@@ -1,0 +1,47 @@
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background:radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(156,202,204,1) 86%, rgba(148,197,233,1) 91%, rgba(148,197,233,1) 94%, rgba(204,230,24,1) 97%);
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    color:black
+ }
+
+
+h2 {
+    text-decoration: underline;
+  }
+  
+
+ img{
+    border: 5px solid rgb(10, 10, 10);
+    border-radius: 50px;
+ }
+ a {
+    color: rgb(118, 46, 201);
+  }
+  
+  a:link{
+    color:blueviolet;
+
+}
+
+a:hover{
+    font-weight:bold ;
+}
+
+a:active{
+    color:aqua;
+}
+
+a:focus{
+    background: yellowgreen;
+}
